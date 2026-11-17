@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "reg-c2adbe46-d310-46d1-aaa7-19ad904d475b",
+      "name": "School Registrar",
+      "email": "akoyadmin@gmail.com",
+      "passwordHash": "$2a$12$hkJSViSYc4aUFriLusvHeurWBDLk/CZPBxIULDLvrz5kQSdoHC2BO",
+      "role": "registrar",
+      "createdAt": "2026-11-17T12:43:38.643Z"
+    }
+  ],
+  "requests": []
+}
